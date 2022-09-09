@@ -318,6 +318,6 @@ $
                                                                                                                               
 <h2>Authors</h2>                                                                                                              
                                                                                                                               
-👤 Martin Agoha, <martin4dtruth@gmail.com>
+👤 Muhammad Ali, <mehammadali999@gmail.com>
 
-👤 Adeeyo Solomon, <adeeyo69@gmail.com>
+👤 David Adama, <davidadama2016@gmail.com>
